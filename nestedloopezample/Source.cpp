@@ -16,4 +16,5 @@ int main() {
 		cout << "aduket"<<endl;
 	}
 	system("pause>nul");
+	//aduket
 }
